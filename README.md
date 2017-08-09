@@ -6,5 +6,6 @@ The aim of the project is to obtain information about:
   3. Virtual memory.
   4. Process state.
   5. CPU memory.
-  6. CPU usage.
+  6. CPU usage
+  
 and post it to RabbitMQ as Jason data.
